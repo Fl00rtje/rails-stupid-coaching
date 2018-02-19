@@ -1,0 +1,25 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#link {
+  text-decoration: none;
+  color: #3379B7;
+  margin: 10px;
+}
+
+.your_reply {
+  padding: 10px;
+  border-left: solid 4px lightgrey;
+  margin: 10px;
+  width: 350px;
+}
+
+.coach_reply {
+  padding: 10px;
+  border-left: solid 4px lightgrey;
+  background-color: pink;
+  margin: 10px;
+  width: 350px;
+}
+
